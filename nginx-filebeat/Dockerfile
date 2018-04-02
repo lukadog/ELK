@@ -1,13 +1,3 @@
-# Dockerfile to illustrate how Filebeat can be used with nginx
-# Filebeat 6.2.3
-
-# Build with:
-# docker build -t filebeat-nginx-example .
-
-# Run with:
-# docker run -p 80:80 -it --link <elk-container-name>:elk \
-#     --name filebeat-nginx-example filebeat-nginx-example
-
 FROM nginx
 MAINTAINER Sebastien Pujadas http://pujadas.net
 ENV REFRESHED_AT 2016-11-04

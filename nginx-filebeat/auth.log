@@ -1,0 +1,100 @@
+Apr  1 05:16:38 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:16:39 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:16:39 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_mauve -w
+Apr  1 05:16:39 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:16:40 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:16:40 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_black -w
+Apr  1 05:16:40 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:16:41 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:16:41 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_teal -w
+Apr  1 05:16:41 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:16:42 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:16:42 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_blue
+Apr  1 05:16:42 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:16:43 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:01 dev-02a03201 CRON[13227]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:17:01 dev-02a03201 CRON[13224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:17:01 dev-02a03201 CRON[13225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:17:01 dev-02a03201 CRON[13223]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:17:01 dev-02a03201 CRON[13226]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:17:01 dev-02a03201 CRON[13223]: pam_unix(cron:session): session closed for user root
+Apr  1 05:17:01 dev-02a03201 CRON[13225]: pam_unix(cron:session): session closed for user root
+Apr  1 05:17:01 dev-02a03201 CRON[13227]: pam_unix(cron:session): session closed for user root
+Apr  1 05:17:09 dev-02a03201 CRON[13224]: pam_unix(cron:session): session closed for user root
+Apr  1 05:17:10 dev-02a03201 CRON[13226]: pam_unix(cron:session): session closed for user root
+Apr  1 05:17:43 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_yellow -w
+Apr  1 05:17:43 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:44 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:45 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_rose -w
+Apr  1 05:17:45 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:46 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:46 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_red -w
+Apr  1 05:17:46 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:47 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:47 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_green -w
+Apr  1 05:17:47 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:48 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:48 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre
+Apr  1 05:17:48 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:49 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:49 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_pink -w
+Apr  1 05:17:49 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:50 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:50 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_mauve -w
+Apr  1 05:17:50 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:51 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:52 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_black -w
+Apr  1 05:17:52 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:53 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:53 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_teal -w
+Apr  1 05:17:53 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:54 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:17:54 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_blue
+Apr  1 05:17:54 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:17:55 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:18:02 dev-02a03201 CRON[13562]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:18:02 dev-02a03201 CRON[13564]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:18:02 dev-02a03201 CRON[13565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:18:02 dev-02a03201 CRON[13563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:18:02 dev-02a03201 CRON[13563]: pam_unix(cron:session): session closed for user root
+Apr  1 05:18:02 dev-02a03201 CRON[13565]: pam_unix(cron:session): session closed for user root
+Apr  1 05:18:09 dev-02a03201 CRON[13562]: pam_unix(cron:session): session closed for user root
+Apr  1 05:18:11 dev-02a03201 CRON[13564]: pam_unix(cron:session): session closed for user root
+Apr  1 05:18:54 dev-02a03201 sshd[13664]: Accepted publickey for gbao from 172.30.92.39 port 49874 ssh2: ED25519-CERT ID user_gbao (serial 8908871085890359742) CA ED25519 SHA256:hgTklR8ajM1hLTegWHf9FEgdBKLQ/HcMSzOmP7yawXw
+Apr  1 05:18:54 dev-02a03201 sshd[13664]: pam_unix(sshd:session): session opened for user gbao by (uid=0)
+Apr  1 05:18:55 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_yellow -w
+Apr  1 05:18:55 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:18:56 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:18:56 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_rose -w
+Apr  1 05:18:56 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:18:57 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:18:57 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_red -w
+Apr  1 05:18:57 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:18:58 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:18:59 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_green -w
+Apr  1 05:18:59 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:00 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:00 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre
+Apr  1 05:19:00 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:01 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_pink -w
+Apr  1 05:19:01 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 CRON[13846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 CRON[13849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 CRON[13848]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 CRON[13847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  1 05:19:01 dev-02a03201 CRON[13847]: pam_unix(cron:session): session closed for user root
+Apr  1 05:19:01 dev-02a03201 CRON[13849]: pam_unix(cron:session): session closed for user root
+Apr  1 05:19:02 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:02 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_mauve -w
+Apr  1 05:19:02 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:03 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:03 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_black -w
+Apr  1 05:19:03 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:04 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:04 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_teal -w
+Apr  1 05:19:04 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:05 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root
+Apr  1 05:19:05 dev-02a03201 sudo:   nagios : TTY=unknown ; PWD=/ ; USER=root ; COMMAND=/usr/lib/nagios/plugins/check_mountpoints.sh -T 20 -i /mnt/lustre_blue
+Apr  1 05:19:05 dev-02a03201 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr  1 05:19:07 dev-02a03201 sudo: pam_unix(sudo:session): session closed for user root

@@ -2,20 +2,14 @@ output:
   logstash:
     enabled: true
     hosts:
-      - elk:5044
+      - 10.102.151.5:5044
     timeout: 15
-    ssl:
-      certificate_authorities:
-      - /etc/pki/tls/certs/logstash-beats.crt
 
 filebeat:
   prospectors:
     -
       paths:
-        - /var/log/syslog
-        - /var/log/auth.log
+        - /log/syslog
+        - /log/auth.log
       document_type: syslog
-    -
-      paths:
-        - "/var/log/nginx/*.log"
-      document_type: nginx-access
+
